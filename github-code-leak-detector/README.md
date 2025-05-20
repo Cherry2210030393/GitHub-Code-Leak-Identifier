@@ -1,10 +1,5 @@
 <h1 align="center">🔐 GitHub Code Leak Detector</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/python-3.9+-blue?style=flat-square" />
-  <img src="https://img.shields.io/github/license/Cherry2210030393/github-code-leak-detector?style=flat-square" />
-</p>
 
 ---
 
@@ -59,14 +54,6 @@ github-code-leak-detector/
 
 ---
 
-## 📸 Live Demo (GIF Preview)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzZpcXZ5dTJzbm84Zm00cHJmZHRtd2dkZnhiZW53OXl2ZzN2ZHRzayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6zzk/giphy.gif" width="600"/>
-</p>
-
----
-
 ## ✅ Run it Locally
 
 ```bash
@@ -104,7 +91,3 @@ PATTERNS = {
 > "Security is not a product, but a process." — Bruce Schneier
 
 ---
-
-## 📜 License
-
-[MIT](LICENSE)
